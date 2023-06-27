@@ -11,13 +11,13 @@
 }
 
 .app-dev {
-    background-color: blue;
+    border: 1px solid black;
 }
 
 .web-dev {
-    background-color: brown;
+    border: 1px solid black;
 }
 
 .support {
-    background-color: darkblue;
+    border: 1px solid black;
 }
