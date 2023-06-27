@@ -1,0 +1,16 @@
+
+    .quesans{
+        /* display: none; */
+        cursor: pointer;
+        border:1px solid coral;
+        margin-top: 10px;
+    }
+    .quesans>h2{
+        font-weight: 600;
+    }
+    .quesans>h3{
+        text-indent: 60px;
+    }
+    .faqrow{
+        padding: 20px;
+    }
