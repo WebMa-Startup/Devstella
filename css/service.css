@@ -4,6 +4,19 @@
     margin: 0;
     padding: 0;
 }
+/* fade in css for scroll */
+
+.fade-in {
+    opacity: 0;
+    transition: opacity 1.3s ease-in;
+  }
+  .fade-in.active {
+    opacity: 1;
+  }
+
+  
+
+  /* end of fade-In css */
 
 .service-img {
     height: 120px;
