@@ -1,20 +1,23 @@
 /* Google fonts */
 
-*{
+* {
     margin: 0;
     padding: 0;
 }
 
-.service-img{
-    height:120px;
+.service-img {
+    height: 120px;
     width: 200px;
 }
-.app-dev{
+
+.app-dev {
     background-color: blue;
 }
-.web-dev{
+
+.web-dev {
     background-color: brown;
 }
-.support{
+
+.support {
     background-color: darkblue;
 }
