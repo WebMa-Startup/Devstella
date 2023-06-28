@@ -2,9 +2,6 @@
     margin: 0;
     padding: 0;
 }
-.faqstart>p,h1{
-    text-align: center;
-}
 .faqstart>h1{
     font-size: 23px;
     padding: 10px;
@@ -23,6 +20,7 @@
     .quesans>h2{
         font-weight: 600;
         font-size: 18px;
+        text-align: left;
         padding: 8px;
         margin-bottom: 10px;
     }
