@@ -1,16 +1,84 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.faqstart>p,h1{
+    text-align: center;
+}
+.faqstart>h1{
+    font-size: 23px;
+    padding: 10px;
+}
+.faqstart>p{
+    font-size: 15px;
+    padding: 10px;
 
-    .quesans{
-        /* display: none; */
+}
+.quesans{
         cursor: pointer;
         border:1px solid coral;
-        margin-top: 10px;
+        margin-bottom: 10px;
+        
     }
     .quesans>h2{
         font-weight: 600;
+        font-size: 18px;
+        padding: 8px;
+        margin-bottom: 10px;
     }
     .quesans>h3{
-        text-indent: 60px;
+        text-indent: 50px;
+        font-size: 15px;
+        text-align: justify;
+        line-height: 23px;
     }
     .faqrow{
         padding: 20px;
     }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+   /* contact page */
+   form{
+    border: 1px solid black;
+    position: absolute;
+    margin: auto 0;
+   }
