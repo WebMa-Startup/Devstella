@@ -13,7 +13,7 @@
     margin-top: 30px;
     }
      .faqstart>h1{
-        font-size: 30px;
+        font-size: 24px;
         padding: 10px;
         text-align: center;
     }
@@ -32,8 +32,8 @@
             
         }
         .question>h2{
-            font-weight: 600;
-            font-size: 18px;
+            font-weight: 500;
+            font-size: 15px;
             padding: 8px;
             /* margin-bottom: 30px; */
          } 
@@ -48,71 +48,121 @@
         justify-content: space-between;
         align-items: center;
     }
-    }
     
     
     
     /* contact us */
     
-    .container{
-        background-color: #fff;
-        box-shadow: 0px 0px 10px rgba(0,0,0,0.2);
-        max-width: 800px;
-        width: 800px;
-        padding: 25px 40px 10px 40px;
-        margin-top: 50px;
-    }
-    .container .text{
-        font-size: 35px;
-        font-weight: 600;
-        text-align: center;
-        background:-webkit-linear-gradient(right,red,blue) ;
-        -webkit-background-clip: text;
-        -webkit-text-fill-color: transparent;
-    }
-    .container form{
-        padding: 30px 0 0 0 0;
-    }
-    .container form .form-row{
-        display: flex;
-        margin: 32px 0;
-    }
-    form .form-row .input-data{
-        width: 100%;
-        height: 40px;
-        margin: 0 20px;
-        position: relative;
-    }
-    form .form-row .textarea{
-        height: 70px;
-    
-    }
-    .input-data input,
-    .textarea input{
-        display: block;
-        height: 100%;
-        width: 100%;
-        border: none;
-        font-size: 18px;
-        border-bottom: 2px solid rgba(0,0,0,0.12);
-    }
-    .input-data label{
-        position: absolute;
-        bottom: 10px;
-        font-size: 16px;
-        pointer-events:none;
-        transition: all 0.3s ease;
-    }
-    .textarea textarea{
-        resize: none;
-        padding-top: 10px;
-    }
-    .textarea label{
-        width: 100%;
-        bottom: 3 0px;
-        background: #fff;
-    
-    }
-    .input-data input:focus~label, .textarea textarea:focus~label{
-         transform: translateY(-20px);
-    }
+  .contactdiv{
+    background-color: rgb(239, 230, 247);
+    width: 100%;
+    overflow: hidden;
+    border-radius: 5px;
+    margin: 0 auto;
+    margin-top: 30px;
+  }
+  .contactdiv>h2{
+    text-align: center;
+    margin-top: 10px;
+    font-size: 20px;
+  }
+  .contactdiv>h5{
+    text-align: center;
+    font-size: 17px;
+  }
+  form{
+   margin: 10px;
+   background-color: rgb(255, 255, 255);
+   padding: 20px;
+   border-radius: 5px;
+
+   position: relative;
+  }
+  .input-data input,.submit-btn input{
+    width: 90%;
+    overflow: hidden;
+    background-color: rgb(239, 230, 247);
+    border: thin;
+    height: 45px;
+  }
+  .input-data textarea{
+    overflow: hidden;
+    background-color: rgb(239, 230, 247);
+    border: thin;
+  }
+  .input-data label{
+    margin-bottom: 5px;
+  }
+  .submit-btn input{
+    width: 130px;
+    position: relative;
+    left: 65%;
+
+  }
+
+  .social-media{
+    width: 95%;
+    margin: 0 auto;
+  }
+  .social-media a{
+    font-size: 20px;
+    text-decoration: none;
+    color: black;
+  }
+  .social-media .don{
+    position:relative;
+    top:8px;
+    left: 5px;
+  }
+  .social-media .address{
+    border: .1px solid none;
+    /* position: relative;
+    left: 30%; */
+    height: 60px;
+    margin-bottom: 5px;
+  }
+  .social-media .address svg{
+    font-size:30px;
+    position: relative;
+    top: 7px;
+  }
+  .social-media .call{
+    border: .1px solid none;
+    /* position: relative;
+    left: 30%; */
+    height: 60px;
+    margin-bottom: 5px;
+
+  }
+  .social-media .call svg{
+    font-size:30px;
+    position: relative;
+    top: 7px;
+  }
+  .social-media .email{
+    border: .1px solid none;
+    /* position: relative;
+    left: 30%; */
+    height: 60px;
+    margin-bottom: 5px;
+
+  }
+  .social-media .email svg{
+    font-size:30px;
+    position: relative;
+    top: 7px;
+  } 
+  .icon{
+    margin-top: 10px;
+    gap: 16px;
+    display: flex;
+    align-content: space-between;
+    font-size: 20px;
+    position: relative;
+    left: 40%;
+    transition: all 0.4s ease;
+  }
+
+
+}
+
