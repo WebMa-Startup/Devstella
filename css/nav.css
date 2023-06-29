@@ -106,7 +106,7 @@ margin-left: 35%;
 /* text-align: center; */
 }
 
-h3{
+.main-text{
    margin-left: 18%;  
    font-family: 'Caprasimo', cursive;
 
@@ -238,7 +238,7 @@ span{
  /* text-align: center; */
  }
  
- h3{
+ .main-text{
     margin-left: 18%;  
     font-family: 'Caprasimo', cursive;
  
@@ -605,7 +605,7 @@ span{
  /* text-align: center; */
  }
  
- h3{
+ .main-text{
     margin-left: 18%;  
     font-family: 'Caprasimo', cursive;
  
@@ -857,7 +857,7 @@ span{
  /* text-align: center; */
  }
  
- h3{
+ .main-text{
     margin-left: 6%;  
     font-family: 'Caprasimo', cursive;
  
