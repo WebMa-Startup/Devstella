@@ -370,7 +370,9 @@
     .main-img {
         display: flex;
         position: absolute;
-        margin-left: 50rem;
+        margin-left: 56rem;
+        width: 65% !important;
+        overflow: hidden;
     }
 
     .sub-para {
@@ -462,6 +464,7 @@
 
     .main-img>img {
         height: 525px;
+        
     }
 
     .main-img {
@@ -469,6 +472,7 @@
         position: absolute;
         margin-left: 70rem;
         margin-top: -50px;
+        
     }
 
     .sub-para {
