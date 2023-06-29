@@ -271,9 +271,12 @@
     }
 
     .main-img {
+
         display: flex;
         position: absolute;
-        margin-left: 50rem;
+        margin-left: 43rem;
+        width: 65% !important;
+        overflow: hidden;
     }
 
     .sub-para {
@@ -470,8 +473,113 @@
     .main-img {
         display: flex;
         position: absolute;
-        margin-left: 70rem;
+        margin-left: 65rem;
         margin-top: -50px;
+        display: flex;
+        position: absolute;
+        width: 65% !important;
+        overflow: hidden;
+
+    }
+
+    .sub-para {
+        padding: .5rem;
+    }
+
+    .sub-text {
+        font-family: 'Vollkorn', serif;
+        padding: .5rem;
+    }
+
+    .sub-devstella {
+        color: blueviolet;
+        font-weight: bolder;
+        font-size: larger;
+    }
+
+    /* btn-11 */
+    .btn-9 {
+        border: none;
+        width: 10rem;
+        height: 2.5rem;
+        border-radius: 15px;
+        background-color: black;
+        color: white;
+        font-family: 'Caprasimo', cursive;
+    }
+
+    .btn-a>i {
+        color: blueviolet;
+    }
+}
+@media (min-width: 1400px) and (max-width: 2560px) {
+    .nav-brand {
+        height: 90px;
+        width: 200px;
+    }
+
+    .my-nav {
+        padding: 0 !important;
+    }
+
+    .nav-bar {
+        box-shadow: 0px 10px 15px -3px rgba(0, 0, 0, 0.1), 0px 10px 15px -3px rgba(0, 0, 0, 0.1);
+    }
+
+    .mybtn {
+        border: none !important;
+    }
+
+    .mybtn:focus {
+        box-shadow: none !important;
+    }
+
+    .nav-link {
+        font-family: 'Roboto Slab', serif !important;
+    }
+
+    /* main para css */
+    .glass {
+
+        background-size: cover;
+        background-repeat: no-repeat;
+        height: 600px;
+        margin-top: 10px;
+    }
+
+    .main-para {
+        position: inherit;
+        background: rgba(255, 255, 255, 0.63);
+        backdrop-filter: blur(10px);
+        -webkit-backdrop-filter: blur(10px);
+        border-radius: 10px;
+        height: 600px;
+        text-align: center;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .main-text {
+        font-family: 'Caprasimo', cursive;
+        font-weight: bold;
+        font-stretch: expanded;
+    }
+
+    .main-img>img {
+        height: 525px;
+        
+    }
+
+    .main-img {
+        display: flex;
+        position: absolute;
+        margin-left: 70rem;
+        display: flex;
+        position: absolute;
+        width: 65% !important;
+        overflow: hidden;
         
     }
 
