@@ -18,8 +18,17 @@
 
 .fade-in.active {
     opacity: 1;
+    animation: bottom_to_top 1.3s linear;
 }
 
+/* @keyframes bottom_to_top {
+    0%{
+        transform: translateY(0em);
+    }
+    100%{
+        transform: translateY(-1.5em);
+    }
+} */
 /* end of fade-In css */
 
 .service-img {
@@ -104,6 +113,8 @@
 .service-text>i {
     font-size: bolder;
     color: blueviolet;
+    display: block;
+    text-align: center;
 }
 
 /* font-family: 'Playfair Display', serif;
