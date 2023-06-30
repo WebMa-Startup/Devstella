@@ -321,10 +321,10 @@
   
       .container>.customer-detail {
           display:flex;
-          flex:0 0 100%;
+          flex:50px;
           flex-direction: column;
           align-items: center;
-          padding: 30px;
+          padding: 20px;
           border-radius: 12px;
           background: #9a84b54a;
           scroll-snap-align: start;
