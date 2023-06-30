@@ -50,7 +50,7 @@
           
       }
     
-      .container > .card {
+      .container > .customer-detail {
           display: flex;
           flex: 0 0 100%;
           flex-direction: column;
@@ -62,7 +62,7 @@
           box-shadow: 0 15px 25px rgba(0, 0, 0, 0.1);
       }
     
-      .card .image {
+      .customer-detail .image {
           height: 150px;
           width: 150px;
           padding: 4px;
@@ -77,7 +77,7 @@
           
       }
     
-      .card h2 {
+      .customer-detail h2 {
         /* bottom: 20px; */
           margin-left: 15px;
           color: #333;
@@ -85,7 +85,7 @@
           font-weight: 600;
       }
     
-      .card p {
+      .customer-detail p {
           margin-top: 10px;
           font-size: 18px;
           font-weight: 400;
@@ -185,7 +185,7 @@ margin-top: 1rem;
            
        }
      
-       .container .card {
+       .container .customer-detail {
            display: flex;
            flex: 0 0 100%;
            flex-direction: column;
@@ -197,7 +197,7 @@ margin-top: 1rem;
            box-shadow: 0 15px 25px rgba(0, 0, 0, 0.1);
        }
      
-       .card .image {
+       .customer-detail .image {
            height: 150px;
            width: 150px;
            padding: 4px;
@@ -213,7 +213,7 @@ margin-top: 1rem;
            border: 5px solid #fff;
        }
      
-       .card h2 {
+       .customer-detail h2 {
          /* bottom: 20px; */
            margin-left: 15px;
            color: #333;
@@ -221,7 +221,7 @@ margin-top: 1rem;
            font-weight: 600;
        }
      
-       .card p {
+       .customer-detail p {
            margin-top: 10px;
            font-size: 18px;
            font-weight: 400;
@@ -318,7 +318,7 @@ margin-top: 1rem;
     
        }
      
-       .container .card {
+       .container .customer-detail {
         /* margin-left: 50%; */
            display: flex;
            flex: 0 0 100%;
@@ -331,7 +331,7 @@ margin-top: 1rem;
            box-shadow: 0 15px 25px rgba(0, 0, 0, 0.1);
        }
      
-       .card .image {
+       .customer-detail .image {
            height: 150px;
            width: 150px;
            padding: 4px;
@@ -347,14 +347,14 @@ margin-top: 1rem;
            border: 5px solid #fff;
        }
      
-       .card h2 {
+       .customer-detail h2 {
            margin-top: 25px;
            color: #333;
            font-size: 22px;
            font-weight: 600;
        }
      
-       .card p {
+       .customer-detail p {
            margin-top: 4px;
            font-size: 18px;
            font-weight: 400;
@@ -444,7 +444,7 @@ margin-top: 1rem;
          
       }
     
-      .container .card {
+      .container .customer-detail {
           display: flex;
           flex: 0 0 100%;
           flex-direction: column;
@@ -456,7 +456,7 @@ margin-top: 1rem;
           box-shadow: 0 15px 25px rgba(0, 0, 0, 0.1);
       }
     
-      .card .image {
+      .customer-detail .image {
           height: 150px;
           width: 150px;
           padding: 4px;
@@ -472,14 +472,14 @@ margin-top: 1rem;
           border: 5px solid #fff;
       }
     
-      .card h2 {
+      .customer-detail h2 {
           margin-top: 25px;
           color: #333;
           font-size: 22px;
           font-weight: 600;
       }
     
-      .card p {
+      .customer-detail p {
           margin-top: 4px;
           font-size: 18px;
           font-weight: 400;
@@ -566,7 +566,7 @@ margin-top: 1rem;
          
        }
      
-       .container .card {
+       .container .customer-detail {
            display: flex;
            flex: 0 0 100%;
            flex-direction: column;
@@ -578,7 +578,7 @@ margin-top: 1rem;
            box-shadow: 0 15px 25px rgba(0, 0, 0, 0.1);
        }
      
-       .card .image {
+       .customer-detail .image {
            height: 150px;
            width: 150px;
            padding: 4px;
@@ -594,7 +594,7 @@ margin-top: 1rem;
            border: 5px solid #fff;
        }
      
-       .card h2 {
+       .customer-detail h2 {
          /* bottom: 20px; */
            margin-left: 15px;
            color: #333;
@@ -602,7 +602,7 @@ margin-top: 1rem;
            font-weight: 600;
        }
      
-       .card p {
+       .customer-detail p {
            margin-top: 10px;
            font-size: 18px;
            font-weight: 400;
@@ -700,7 +700,7 @@ margin-top: 1rem;
           
        }
      
-       .container .card {
+       .container .customer-detail {
            display: flex;
            flex: 0 0 100%;
            flex-direction: column;
@@ -712,7 +712,7 @@ margin-top: 1rem;
            box-shadow: 0 15px 25px rgba(0, 0, 0, 0.1);
        }
      
-       .card .image {
+       .customer-detail .image {
            height: 150px;
            width: 150px;
            padding: 4px;
@@ -728,14 +728,14 @@ margin-top: 1rem;
            border: 5px solid #fff;
        }
      
-       .card h2 {
+       .customer-detail h2 {
            margin-top: 25px;
            color: #333;
            font-size: 22px;
            font-weight: 600;
        }
      
-       .card p {
+       .customer-detail p {
            margin-top: 4px;
            font-size: 18px;
            font-weight: 400;
@@ -826,7 +826,7 @@ margin-top: 1rem;
            
        }
      
-       .container .card {
+       .container .customer-detail {
            display: flex;
            flex: 20%;
            flex-direction: column;
@@ -838,7 +838,7 @@ margin-top: 1rem;
            box-shadow: 0 15px 25px rgba(0, 0, 0, 0.1);
        }
      
-       .card .image {
+       .customer-detail .image {
            height: 150px;
            width: 150px;
            padding: 4px;
@@ -854,7 +854,7 @@ margin-top: 1rem;
            border: 5px solid #fff;
        }
      
-       .card h2 {
+       .customer-detail h2 {
          /* bottom: 20px; */
            margin-left: 15px;
            color: #333;
@@ -862,7 +862,7 @@ margin-top: 1rem;
            font-weight: 600;
        }
      
-       .card p {
+       .customer-detail p {
            margin-top: 10px;
            font-size: 18px;
            font-weight: 400;
