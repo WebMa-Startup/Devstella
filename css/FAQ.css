@@ -69,7 +69,7 @@ box-shadow: -4px 2px 34px -18px rgba(0,34,255,1); */
     /* contact us */
 
     .contactdiv {
-        background-color: #B2BEB59C;
+        background-color:rgba(181, 187, 250, 0.582);
         width: 100%;
         overflow: hidden;
         box-shadow: 0px 0px 7px rgba(0, 0, 0, 0.5);
@@ -285,7 +285,7 @@ box-shadow: -4px 2px 34px -18px rgba(0,34,255,1); */
     }
 
     .footer {
-        background: #182053;
+        background:#8EA5DA;
     }
 }
 
@@ -363,7 +363,7 @@ box-shadow: -4px 2px 34px -18px rgba(0,34,255,1); */
     /* contact us */
 
     .contactdiv {
-        background-color: rgb(239, 230, 247);
+        background-color:rgba(181, 187, 250, 0.582);
         width: 100%;
         overflow: hidden;
         box-shadow: 0px 0px 7px rgba(0, 0, 0, 0.5);
@@ -579,7 +579,7 @@ box-shadow: -4px 2px 34px -18px rgba(0,34,255,1); */
     }
 
     .footer {
-        background: #182053;
+        background:#8EA5DA;
     }
 
     .icon {
@@ -673,7 +673,7 @@ box-shadow: -4px 2px 34px -18px rgba(0,34,255,1); */
     /* contact us */
 
     .contactdiv {
-        background-color: rgb(239, 230, 247);
+        background-color:rgba(181, 187, 250, 0.582);
         width: 100%;
         overflow: hidden;
         border-radius: 5px;
@@ -889,7 +889,7 @@ box-shadow: -4px 2px 34px -18px rgba(0,34,255,1); */
     }
 
     .footer {
-        background: #182053;
+        background:#8EA5DA;
     }
 
 }
@@ -969,7 +969,7 @@ box-shadow: -4px 2px 34px -18px rgba(0,34,255,1); */
     /* contact us */
 
     .contactdiv {
-        background-color: rgb(239, 230, 247);
+        background-color:rgba(181, 187, 250, 0.582);
         width: 100%;
         overflow: hidden;
         padding: 25px;
@@ -1185,7 +1185,7 @@ box-shadow: -4px 2px 34px -18px rgba(0,34,255,1); */
     }
 
     .footer {
-        background: #182053;
+        background:#8EA5DA;
     }
 
 
@@ -1267,7 +1267,7 @@ box-shadow: -4px 2px 34px -18px rgba(0,34,255,1); */
     /* contact us */
 
     .contactdiv {
-        background-color: rgb(239, 230, 247);
+        background-color:rgba(181, 187, 250, 0.582);
         width: 100%;
         overflow: hidden;
         border-radius: 5px;
@@ -1484,7 +1484,7 @@ box-shadow: -4px 2px 34px -18px rgba(0,34,255,1); */
     }
 
     .footer {
-        background: #182053;
+        background:#8EA5DA;
     }
 }
 
@@ -1563,7 +1563,7 @@ box-shadow: -4px 2px 34px -18px rgba(0,34,255,1); */
     /* contact us */
 
     .contactdiv {
-        background-color: rgb(247, 238, 229);
+        background-color:rgba(181, 187, 250, 0.582);
         width: 100%;
         overflow: hidden;
         border-radius: 5px;
@@ -1780,6 +1780,6 @@ body {
     }
 
     .footer {
-        background: #182053;
+        background:#8EA5DA;
     }
 }
