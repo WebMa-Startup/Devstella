@@ -124,7 +124,7 @@ box-shadow: -4px 2px 34px -18px rgba(0,34,255,1); */
         width: 130px;
         transition: 0.7s;
         position: relative;
-        left: 53%;
+        left: 55%;
 
     }
 
@@ -587,9 +587,9 @@ box-shadow: -4px 2px 34px -18px rgba(0,34,255,1); */
         gap: 16px;
         display: flex;
         align-content: space-between;
-        font-size: 20px;
+        font-size: 30px;
         position: relative;
-        left: 40%;
+        /* left: 30%; */
         transition: all 0.4s ease;
     }
 
@@ -1618,8 +1618,8 @@ box-shadow: -4px 2px 34px -18px rgba(0,34,255,1); */
 
     .submit-btn .glow-on-hover {
         width: 130px;
-        transition: 0.7s;
         position: relative;
+        bottom: 5px;
         left: 75%;
 
     }
@@ -1646,6 +1646,7 @@ body {
         background: #000000;
         cursor: pointer;
         position: relative;
+        transition: 0.7s;
         z-index: 0;
         border-radius: 10px;
     }
@@ -1673,6 +1674,7 @@ body {
 
     .glow-on-hover:active:after {
         background: transparent;
+        transition: .2s;
     }
 
     .glow-on-hover:hover:before {
