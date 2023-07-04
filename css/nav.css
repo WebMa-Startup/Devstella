@@ -2,7 +2,7 @@
     /* Import Google font - Poppins */
     /* @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700&display=swap"); */
     @import url('https://fonts.googleapis.com/css2?family=PT+Sans+Narrow:wght@400;700&family=Playfair+Display:ital,wght@1,800&display=swap');
-
+  @import url('https://fonts.googleapis.com/css2?family=Butcherman&family=Emblema+One&family=Ewert&family=Fondamento&family=Gotu&family=IM+Fell+DW+Pica+SC&family=Julee&family=Metal+Mania&family=Overlock+SC&family=Rampart+One&family=Rye&family=Sancreek&family=Sansita+Swashed&family=Vollkorn+SC:wght@600;700&family=Ysabeau+SC:wght@400;500&display=swap');
     /* * {
           margin: 0;
           padding: 0;
@@ -120,8 +120,10 @@
         /* text-align: center; */
     }
     .images>h3{
+        /* font-family: 'Fondamento', cursive; */
+        font-family:'Courier New', Courier, monospace;
         text-transform: uppercase;
-        font-weight: 400;
+        font-weight: 600;
         font-style:initial;
     }
     .ceo{
@@ -280,8 +282,10 @@
         /* text-align: center; */
     }
     .images>h3{
+        /* font-family: 'Fondamento', cursive; */
+        font-family:'Courier New', Courier, monospace;
         text-transform: uppercase;
-        font-weight: 400;
+        font-weight: 600;
         font-style:initial;
     }
     .ceo{
@@ -424,8 +428,11 @@
           /* text-align: center; */
       }
       .images>h3{
+        /* font-family: 'Fondamento', cursive; */
         text-transform: uppercase;
-        font-weight: 400;
+        font-weight: 600;
+        font-family:'Courier New', Courier, monospace;
+
         font-style:initial;
     }
     .ceo{
@@ -577,8 +584,11 @@
         /* text-align: center; */
     }
     .images>h3{
+        /* font-family: 'Fondamento', cursive; */
         text-transform: uppercase;
-        font-weight: 400;
+        font-weight: 600;
+        font-family:'Courier New', Courier, monospace;
+
         font-style:initial;
     }
     .ceo{
@@ -732,8 +742,11 @@
         /* text-align: center; */
     }
     .images>h3{
+        /* font-family: 'Fondamento', cursive; */
         text-transform: uppercase;
-        font-weight: 400;
+        font-weight: 600;
+        font-family:'Courier New', Courier, monospace;
+
         font-style:initial;
     }
     .ceo{
@@ -891,8 +904,11 @@
         border-radius: 50%;
     }
     .images>h3{
+        /* font-family: 'Fondamento', cursive; */
         text-transform: uppercase;
-        font-weight: 400;
+        font-weight: 600;
+        font-family:'Courier New', Courier, monospace;
+
         font-style:initial;
     }
     .ceo{

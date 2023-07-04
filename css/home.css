@@ -3,7 +3,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@700&display=swap');
 
 
-
 * {
     margin: 0;
     padding: 0;
@@ -480,6 +479,7 @@ html {
 
     .nav-link {
         font-family: 'Roboto Slab', serif !important;
+        font-size: 25px;
     }
 
     /* main para css */
@@ -508,6 +508,7 @@ html {
     .main-text {
         font-family: 'Roboto Condensed', sans-serif;
         font-weight: bold;
+        font-size: 35px;
     }
 
 
@@ -529,6 +530,7 @@ html {
     .sub-text {
         font-family: 'Vollkorn', serif;
         padding: .5rem;
+        font-size: 19px;
     }
 
     .sub-devstella {
@@ -542,6 +544,7 @@ html {
         border: none;
         width: 10rem;
         height: 2.5rem;
+        font-size: 18px;
         border-radius: 15px;
         background-color: black;
         color: white;
@@ -614,6 +617,7 @@ html {
     .main-text {
         font-family: 'Roboto Condensed', sans-serif;
         font-weight: bold;
+        font-size: 40px;
     }
 
 
@@ -635,6 +639,7 @@ html {
     .sub-text {
         font-family: 'Vollkorn', serif;
         padding: .5rem;
+        font-size: 20px;
     }
 
     .sub-devstella {
@@ -648,6 +653,8 @@ html {
         border: none;
         width: 10rem;
         height: 2.5rem;
+        font-size: 20px;
+        box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
         border-radius: 15px;
         background-color: black;
         color: white;
