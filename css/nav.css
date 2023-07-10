@@ -136,11 +136,11 @@
 
     .images>span {
 
-        font-size: 20px;
-        font-family: 'Vollkorn', serif;
-
-
-
+        font-family:'Courier New', Courier, monospace;
+        text-transform: uppercase;
+        font-weight: 600;
+        font-style:initial;
+       
     }
 
     .ser {
@@ -300,9 +300,13 @@
         font-size: 29px;
     }
 
-    span {
-        font-family: 'Vollkorn', serif;
-        font-size: 20px;
+   .images> span {
+
+        font-family:'Courier New', Courier, monospace;
+        text-transform: uppercase;
+        font-weight: 600;
+        font-style:initial;
+       
     }
 }
 
@@ -442,9 +446,14 @@
         margin-top: 20px;
     }
       .images>span {
-  
-          font-size: 21px;
-          font-family: 'Vollkorn', serif;
+        
+
+            font-family:'Courier New', Courier, monospace;
+            text-transform: uppercase;
+            font-weight: 600;
+            font-style:initial;
+           
+
       }
   
       .ser {
@@ -597,13 +606,13 @@
         padding: 20px;
         margin-top: 20px;
     }
-    span {
+    .images>span {
 
-        font-size: 22px;
-        font-family: 'Vollkorn', serif;
-
-
-
+        font-family:'Courier New', Courier, monospace;
+        text-transform: uppercase;
+        font-weight: 600;
+        font-style:initial;
+       
     }
 
     .ser {
@@ -756,13 +765,13 @@
         margin-top: 20px;
     }
 
-    span {
+    .images>span {
 
-        font-size: 23px;
-        font-family: 'Vollkorn', serif;
-
-
-
+        font-family:'Courier New', Courier, monospace;
+        text-transform: uppercase;
+        font-weight: 600;
+        font-style:initial;
+       
     }
 
     .ser {
@@ -917,13 +926,13 @@
         padding: 20px;
         margin-top: 20px;
     }
-    span {
+    .images>span {
 
-        font-size: 20px;
-        font-family: 'Vollkorn', serif;
-
-
-
+        font-family:'Courier New', Courier, monospace;
+        text-transform: uppercase;
+        font-weight: 600;
+        font-style:initial;
+       
     }
 
     .ser {
