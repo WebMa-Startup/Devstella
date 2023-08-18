@@ -45,13 +45,14 @@
 }
 
 .list-services {
+    padding:0 10px;
     display: flex;
     align-items: center;
     justify-content: center;
 }
 
 .app-dev {
-    border-radius: 3rem;
+    border-radius: 30px;
     box-shadow: 0px 0px 25px 1px rgba(0, 0, 0, 0.1), 0px 10px 15px -3px rgba(0, 0, 0, 0.1);
     background: rgba(8, 12, 196, 0.3);
     backdrop-filter: blur(5.5px);
@@ -65,7 +66,7 @@
 }
 
 .web-dev {
-    border-radius: 3rem;
+    border-radius: 30px;
     box-shadow: 0px 0px 25px 1px rgba(0, 0, 0, 0.1), 0px 10px 15px -3px rgba(0, 0, 0, 0.1);
     background: rgba(15, 119, 189, 0.3);
     backdrop-filter: blur(5.5px);
@@ -91,7 +92,7 @@
 }
 
 .support {
-    border-radius: 2rem;
+    border-radius: 30px;
     box-shadow: 0px 0px 25px 1px rgba(0, 0, 0, 0.1), 0px 10px 15px -3px rgba(0, 0, 0, 0.1);
     background: rgba(189, 16, 224, 0.3);
     transition: .5s;
@@ -181,13 +182,14 @@ font-family: 'PT Sans Narrow', sans-serif; */
 }
 
 .list-services {
+    padding:0 10px;
     display: flex;
     align-items: center;
     justify-content: center;
 }
 
 .app-dev {
-    border-radius: 3rem;
+    border-radius: 30px;
     box-shadow: 0px 0px 25px 1px rgba(0, 0, 0, 0.1), 0px 10px 15px -3px rgba(0, 0, 0, 0.1);
     background: rgba(8, 12, 196, 0.3);
     backdrop-filter: blur(5.5px);
@@ -202,7 +204,7 @@ font-family: 'PT Sans Narrow', sans-serif; */
 }
 
 .web-dev {
-    border-radius: 3rem;
+    border-radius: 30px;
     box-shadow: 0px 0px 25px 1px rgba(0, 0, 0, 0.1), 0px 10px 15px -3px rgba(0, 0, 0, 0.1);
     background: rgba(15, 119, 189, 0.3);
     backdrop-filter: blur(5.5px);
@@ -228,7 +230,7 @@ font-family: 'PT Sans Narrow', sans-serif; */
 }
 
 .support {
-    border-radius: 2rem;
+    border-radius: 30px;
     box-shadow: 0px 0px 25px 1px rgba(0, 0, 0, 0.1), 0px 10px 15px -3px rgba(0, 0, 0, 0.1);
     background: rgba(189, 16, 224, 0.3);
     transition: .5s;
